@@ -101,6 +101,30 @@ const questions = [
       { text: 'Um no', correct: false },
       { text: 'IDK', correct: false }
     ]
+  
+  },
+ 
+  {
+    question: 'what is the binary number of 10?',
+    answers: [
+      { text: '1010', correct: true },
+      { text: '1100', correct: false },
+      { text: '1100', correct: false }
+      ]
+  },
+  {
+    question: 'what is the full form of SDLC?',
+    answers:[
+      { text: 'software development lifecycle', correct: true },
+      { text: 'software decode lifecycle', correct: false }
+      ]
+  },
+  {
+    question: 'what does OS mean?',
+    answers: [
+      { text: 'opensource', correct: false },
+      { text: 'operatingsystem', correct: true }
+      ]
   },
   {
     question: 'What is 4 * 2?',
