@@ -102,6 +102,13 @@ const questions = [
       { text: 'IDK', correct: false }
     ]
   },
+  { 
+    question: 'what is the binary number of 10?',
+    answers: [
+      { text:'1010',correct: true },
+      { text: '1100',correct: false }
+      ]
+  },
   {
     question: 'What is 4 * 2?',
     answers: [
@@ -110,3 +117,4 @@ const questions = [
     ]
   }
 ]
+}
